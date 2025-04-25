@@ -1,6 +1,6 @@
-<h1>Hello!</h1>  👋
+<h1>Hello! 👋</h1> 
 
-## I'm Gias uddin vuiya 👋
+## I'm Gias uddin vuiya 
 
 <p >
   🇧🇩 Self-taught Developer from Bangladesh <br/>
