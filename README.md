@@ -7,5 +7,5 @@ My GitHub repository list serves as a good start for what I've done. However, I 
 
 My website [giasuddinvuiya.com](https://giasuddinvuiya.com)  
 
-[Click here for my resume](https://giasuddinvuiya.com/resume) (If the link breaks, head to [giasuddinvuiya.com](https://giasuddinvuiya.com) and click the resume button in the top right.)
+[Resume](https://giasuddinvuiya.com/resume) (If the link breaks, head to [giasuddinvuiya.com](https://giasuddinvuiya.com) and click the resume button in the top right.)
 
