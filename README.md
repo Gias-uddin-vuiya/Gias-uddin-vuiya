@@ -5,4 +5,7 @@ Currently, I'm focused on completing my **CS50P (Python)** final project and enh
 
 My GitHub repository list serves as a good start for what I've done. However, I also contribute and work on various projects over at my **[Gias uddin vuiya GitHub](https://github.com/Gias-uddin-vuiya)**. Feel free to take a look at that list too!
 
+My website [giasuddinvuiya.com](https://giasuddinvuiya.com)  
+
+[Click here for my resume](https://giasuddinvuiya.com/resume) (If the link breaks, head to [giasuddinvuiya.com](https://giasuddinvuiya.com) and click the resume button in the top right.)
 
