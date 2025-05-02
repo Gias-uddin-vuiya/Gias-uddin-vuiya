@@ -9,9 +9,9 @@ My website [currently link is down](https://giasuddinvuiya.com)
 
 Resume [currently link is down](https://giasuddinvuiya.com/resume) (If the link breaks, head to [currently link is down](https://giasuddinvuiya.com) and click the resume button in the top right.)
 
-## 🔧 What I'm Working On Now
+## What I'm Working On Now
 
 ### 📌 CP Timer
-- [CP Timer](https://github.com/Gias-uddin-vuiya/cp-timer): ***Developed as my CS50P final project***
+- ***[CP Timer](https://github.com/Gias-uddin-vuiya/cp-timer):Developed as my CS50P final project***
 
 CP Timer helps competitive programmers manage their practice time using a Pomodoro-inspired workflow, integrated problem tracking, and focus-enhancing tools to improve consistency and productivity.
