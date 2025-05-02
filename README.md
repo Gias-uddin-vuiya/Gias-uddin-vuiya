@@ -38,5 +38,6 @@ If you’re hiring or know of a relevant opportunity, I’d love to connect!
 | **Methods**               | OOP, Debugging, Asynchronous design, API Integration                                                                         |
 
 Currently developing skills in the following:
--  - 
+
 **Django** • **DSA** • **CI/CD**
+
