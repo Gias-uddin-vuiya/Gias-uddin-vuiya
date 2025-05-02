@@ -18,3 +18,5 @@ Resume [Currently unavailable](https://giasuddinvuiya.com/resume) (If the link b
 
 ## 📫 Contact Me
 - Email: giasuddinvuiya2022@gmail.com
+
+I'm always open to discussing programming, collaborating on projects, or simply connecting—don’t hesitate to get in touch!
