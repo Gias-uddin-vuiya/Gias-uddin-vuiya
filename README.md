@@ -26,7 +26,7 @@ I'm always open to discussing programming, collaborating on projects, or simply 
 I'm currently open to **internships, freelance/remote opportunities** in web development, Python programming, or software engineering.  
 If you’re hiring or know of a relevant opportunity, I’d love to connect!
 
-**Tools:** Git, GitHub, VS Code, Replit, Linux CLI 
+
 ## 🛠️ Skills and Technologies
 
 | **Category**              | **Skills**                                                                                                                                                     |
@@ -37,4 +37,5 @@ If you’re hiring or know of a relevant opportunity, I’d love to connect!
 | **Tools**                 |  Git, GitHub, Linux CLI  |
 | **Methods**               | OOP, Debugging, Asynchronous design, API Integration                                                                         |
 
-
+Currently developing skills in the following:
+- **Django** - **DSA**
