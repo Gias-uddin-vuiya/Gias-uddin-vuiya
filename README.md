@@ -20,3 +20,9 @@ Resume [Currently unavailable](https://giasuddinvuiya.com/resume) (If the link b
 - Email: giasuddinvuiya2022@gmail.com
 
 I'm always open to discussing programming, collaborating on projects, or simply connecting—don’t hesitate to get in touch!
+
+## ❗ Job Search
+
+I'm currently open to **internships, freelance/remote opportunities** in web development, Python programming, or software engineering.  
+If you’re hiring or know of a relevant opportunity, I’d love to connect!
+
