@@ -3,11 +3,11 @@ I'm Gias uddin vuiya (Gias-uddin-vuiya), a self-taught developer from Bangladesh
 
 Currently, I'm focused on completing my CS50P (Python) final project and enhancing my skills through CS50W (Web Programming). In addition, I am preparing to apply to Harvard Extension School to further my education in computer science.
 
-My GitHub repository list serves as a good start for what I've done. However, I also contribute and work on various projects over at my Gias uddin vuiya GitHub. Feel free to take a look at that list too!
+My GitHub repository list serves as a good start for what I've done. However, I also contribute and work on various projects over at my [Gias uddin vuiya GitHub](https://github.com/Gias-uddin-vuiya). Feel free to take a look at that list too!
 
-My website currently link is down
+My website [currently link is down](https://giasuddinvuiya.com)  
 
-Resume currently link is down (If the link breaks, head to currently link is down and click the resume button in the top right.)
+Resume [currently link is down](https://giasuddinvuiya.com/resume) (If the link breaks, head to [currently link is down](https://giasuddinvuiya.com) and click the resume button in the top right.)
 
 ## What I'm Working On Now
 
