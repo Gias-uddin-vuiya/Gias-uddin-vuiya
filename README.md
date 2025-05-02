@@ -7,7 +7,7 @@ My GitHub repository list serves as a good start for what I've done. However, I 
 
 My website [currently link is down](https://giasuddinvuiya.com)  
 
-Resume [currently link is down](https://giasuddinvuiya.com/resume) (If the link breaks, head to [currently link is down](https://giasuddinvuiya.com) and click the resume button in the top right.)
+Resume [Currently unavailable](https://giasuddinvuiya.com/resume) (If the link breaks, head to [currently link is down](https://giasuddinvuiya.com) and click the resume button in the top right.)
 
 ## 📌 What I'm Working On Now
 
