@@ -1,35 +1,17 @@
-# 👋 Hello!
+Hello! 👋
+I'm Gias uddin vuiya (Gias-uddin-vuiya), a self-taught developer from Bangladesh, currently deepening my knowledge of computer science through Harvard’s CS50 program. My work focuses on full-stack web development, competitive programming, and building real-world web applications.
 
-I'm **Gias Uddin Vuiya** (`@Gias-uddin-vuiya`), a self-taught developer from **Bangladesh**, currently expanding my computer science knowledge through **Harvard’s CS50 program**.
+Currently, I'm focused on completing my CS50P (Python) final project and enhancing my skills through CS50W (Web Programming). In addition, I am preparing to apply to Harvard Extension School to further my education in computer science.
 
-My interests lie in:
-- 💻 Full-stack web development  
-- 🎯 Competitive programming  
-- 🌐 Building real-world web applications  
+My GitHub repository list serves as a good start for what I've done. However, I also contribute and work on various projects over at my Gias uddin vuiya GitHub. Feel free to take a look at that list too!
 
----
+My website currently link is down
 
-## 🚀 Current Focus
+Resume currently link is down (If the link breaks, head to currently link is down and click the resume button in the top right.)
 
-- Completing my **CS50P (Python)** final project  
-- Enhancing my web dev skills through **CS50W (Web Programming)**  
-- Preparing to apply to **Harvard Extension School** to pursue a deeper education in computer science  
+## What I'm Working On Now
 
----
+### 📌 CP Timer
+- [CP Timer](https://github.com/Gias-uddin-vuiya/cp-timer): ***Developed as my CS50P final project***
 
-## 🛠️ Featured Project
-
-### 📌 [CP Timer](https://github.com/Gias-uddin-vuiya/cp-timer)
-A sleek, minimalist timer app built for **competitive programming practice**, developed as my CS50P final project.
-
----
-
-## 📂 GitHub & Portfolio
-
-- Browse my work: [GitHub Profile](https://github.com/Gias-uddin-vuiya)
-- 🔧 Website: *Currently down* – [giasuddinvuiya.com](https://giasuddinvuiya.com)
-- 📄 Resume: *Currently unavailable* – [giasuddinvuiya.com/resume](https://giasuddinvuiya.com/resume)
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+CP Timer helps competitive programmers manage their practice time using a Pomodoro-inspired workflow, integrated problem tracking, and focus-enhancing tools to improve consistency and productivity.
