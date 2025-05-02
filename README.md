@@ -14,7 +14,7 @@ Resume [Currently unavailable](https://giasuddinvuiya.com/resume) (If the link b
 ### CP Timer  
 *Developed as my CS50P final project*
 
-**[CP Timer](https://github.com/Gias-uddin-vuiya/cp-timer)** helps competitive programmers manage their practice time using a **Pomodoro-inspired workflow**, integrated **problem tracking**, and **focus-enhancing tools** to improve consistency and productivity. 🔗 [View the project on GitHub](https://github.com/Gias-uddin-vuiya/cp-timer)
+- **[CP Timer](https://github.com/Gias-uddin-vuiya/cp-timer)** helps competitive programmers manage their practice time using a **Pomodoro-inspired workflow**, integrated **problem tracking**, and **focus-enhancing tools** to improve consistency and productivity. 🔗 [View the project on GitHub](https://github.com/Gias-uddin-vuiya/cp-timer)
 
 ## 📫 Contact Me
 - Email: giasuddinvuiya2022@gmail.com
