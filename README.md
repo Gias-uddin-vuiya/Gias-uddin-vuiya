@@ -26,9 +26,7 @@ I'm always open to discussing programming, collaborating on projects, or simply 
 I'm currently open to **internships, freelance/remote opportunities** in web development, Python programming, or software engineering.  
 If you’re hiring or know of a relevant opportunity, I’d love to connect!
 
-## 🛠️ Skills and Technologies
-**Web:** 
-
+**Tools:** Git, GitHub, VS Code, Replit, Linux CLI 
 ## 🛠️ Skills and Technologies
 
 | **Category**              | **Skills**                                                                                                                                                     |
@@ -36,5 +34,7 @@ If you’re hiring or know of a relevant opportunity, I’d love to connect!
 | **Programming Languages** | Python, JavaScript, C, HTML, CSS, SQL                                                                                                         |
 | **Web**                   |  Flask, Bootstrap, DOM Manipulation, Responsive Design 
 | **Database Management**   | MySQL, SQLite                                                                            |
-| **Technologies & Frameworks** | React, Docker, Git, GitHub, AWS, Cloudflare, FastAPI, Flask, Django, Vite, Linux, Unix, NumPy, Keras, PyTorch, TensorFlow, Pandas, Scikit-learn, Plotly, Dash, NetworkX, SpaCy, Gradio, Fly.io |
-| **Methods**               | Agile software development, OOP, Debugging, Asynchronous design, CI/CD, API Integration                                                                         |
+| **Tools**                 |  Git, GitHub, Linux CLI  |
+| **Methods**               | OOP, Debugging, Asynchronous design, API Integration                                                                         |
+
+
