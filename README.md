@@ -39,4 +39,4 @@ If you’re hiring or know of a relevant opportunity, I’d love to connect!
 
 Currently developing skills in the following:
 
-**Django** • **Data Structures & Algorithms (DSA)** and **CI/CD**  — driven by both ongoing coursework and personal learning interests.
+**Django** • **Data Structures & Algorithms (DSA)** and **CI/CD**  — driven by both ongoing coursework and personal learning interests..
