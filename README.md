@@ -1,3 +1,3 @@
 # Hello!
 
-I'm Gias uddin, a software developer and learners.
+I'm Gias uddin, a software developer and educator.
