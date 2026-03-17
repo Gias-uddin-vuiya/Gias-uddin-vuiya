@@ -1,3 +1,3 @@
 # Hello!
 
-I'm Gias uddin, a software developer and founder....
+I'm Gias uddin, a software developer and founder.
