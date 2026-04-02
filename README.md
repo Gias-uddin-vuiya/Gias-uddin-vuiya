@@ -2,7 +2,7 @@
 
 I'm Gias uddin vuiya, a software developer and passionate learner.
 
-##3 Projects
+### Projects
 -- 
 - [IPA Symbols](https://gias-uddin-vuiya.github.io/IPA-Chart/) an educational tool designed to learn phonetics symbols for accurate pronunciation.
 
