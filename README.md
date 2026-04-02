@@ -8,4 +8,4 @@ I'm Gias uddin vuiya, a software developer and passionate learner.
 
 - [G-Search](https://gias-uddin-vuiya.github.io/search/) Design a front-end for Google Search, Google Image Search, and Google Advanced Search.
 
-- [Wiki](https://science.com)
+- [WikiQuest](https://science.com)
