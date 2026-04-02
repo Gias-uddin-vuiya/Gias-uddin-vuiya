@@ -6,6 +6,6 @@ I'm Gias uddin vuiya, a software developer and passionate learner.
 
 - [IPA Symbols](https://gias-uddin-vuiya.github.io/IPA-Chart/) an educational tool designed to learn phonetics symbols for accurate pronunciation.
 
-- [G-Search](https://gias-uddin-vuiya.github.io/search/) Design a front-end for Google Search, Google Image Search, and Google Advanced Search.
+- [G-Search](https://gias-uddin-vuiya.github.io/search/) design a front-end for Google Search, Google Image Search, and Google Advanced Search.
 
-- [WikiQuest](https://science.com)
+- [WikiQuest](https://github.com/Gias-uddin-vuiya/WikiQuest) design a Wikipedia-like online encyclopedia.
