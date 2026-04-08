@@ -1,6 +1,6 @@
 ## Hello!
 
-I'm Gias uddin vuiya, a software developer and passionate learner.
+I'm Gias uddin vuiya, a software developer and problem solver.
 
 ## Projects
 
