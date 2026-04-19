@@ -13,4 +13,3 @@ I'm Gias uddin vuiya, a software developer and problem solver.
 - [Resume Genie](https://github.com/Gias-uddin-vuiya/interactive-resume-builder.git) an interactive resume builder
 
 
-.
