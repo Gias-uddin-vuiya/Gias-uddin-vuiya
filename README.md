@@ -13,3 +13,7 @@ I'm Gias uddin vuiya, a software developer and problem solver.
 - [Resume Genie](https://github.com/Gias-uddin-vuiya/interactive-resume-builder.git) an interactive resume builder.
 - [Eschool-backend](https://github.com/Gias-uddin-vuiya/Eschool-backend)  Eschool backend project
   
+
+## Projects
+
+you can reach me at - [giasuddinvuiya2022@gemail.com](..)
